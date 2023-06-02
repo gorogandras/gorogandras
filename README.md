@@ -1,16 +1,16 @@
 # Hello, there
 ### My name is András, welcome to my repository.
 I am a :electron:Chemcial Engineer working in the :oil_drum:Oil & Gas industry. <br>
-:flags: I am fluent in Hungarian, English and Spanish. <br>
+🌎 I am fluent in Hungarian, English and Spanish. <br>
 
 At work I 
-- :test_tube: develop awesome new products for the automotive industry
-- :wrench: resolve technical issues in production and use
-- :thinking: come up with new ideas to increase efficiency and save money
-- :relaxed: support sales and clients regarding technical questions
+- :test_tube: develop awesome new products for the automotive industry.
+- :wrench: resolve technical issues in production and use.
+- :thinking: come up with new ideas to increase efficiency and save money.
+- :relaxed: support sales and clients regarding technical questions.
 
 In my free time I
-- :nerd_face: challenge myself by learning new tools ( :snake:Python, 	:scroll:SQL, :leaves:MongoDB...) 
+- :nerd_face: challenge myself by learning new tools ( :snake:Python, 	:scroll:SQL, :leaves:MongoDB...). 
 - :bar_chart: develop Data Science projects (:chart:Analysis, :robot:Machine Learning). 
 
 #### 👨‍💻 My objective and dream is to become a Data Scientist. 
