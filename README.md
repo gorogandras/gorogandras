@@ -15,6 +15,10 @@ In my free time I
 
 #### 👨‍💻 My objective and dream is to become a Data Scientist. 
 
+Some of the projects I've been working on: 
+
+- Madrid Housing Data Analysis - https://github.com/gorogandras/madrid_housing_data_analysis (better graph availability: https://nbviewer.org/github/gorogandras/madrid_housing_data_analysis/blob/main/madrid_housing_data_analysis.ipynb)
+
 ##
 <div> 
   <a href="https://www.linkedin.com/in/andrasgorog/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height=35></a>
