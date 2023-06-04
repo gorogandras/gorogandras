@@ -17,7 +17,7 @@ In my free time I
 
 Some of the projects I've been working on: 
 
-- Madrid Housing Data Analysis - https://github.com/gorogandras/madrid_housing_data_analysis (better graph availability: https://nbviewer.org/github/gorogandras/madrid_housing_data_analysis/blob/main/madrid_housing_data_analysis.ipynb)
+- [Madrid Housing Data Analysis](https://github.com/gorogandras/madrid_housing_data_analysis) (or [nbviewer](https://nbviewer.org/github/gorogandras/madrid_housing_data_analysis/blob/main/madrid_housing_data_analysis.ipynb) for better map visualisation) - I created this project with data I downloaded from idealista.com real estate website. I was looking for a way to decide if an asset is overpriced or not. It includes Exploratory Data Analysis and price prediction with machine learning models. 
 
 ##
 <div> 
